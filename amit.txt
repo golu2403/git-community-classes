@@ -1,0 +1,13 @@
+
+touch amit.txt
+
+
+
+
+
+
+
+
+
+'
+clear
